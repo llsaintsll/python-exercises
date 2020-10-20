@@ -1,0 +1,1 @@
+input("Olá mundo")
